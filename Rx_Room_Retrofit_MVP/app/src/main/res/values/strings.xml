@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rx_Room_Retrofit_MVP</string>
+    <string name="from_server">From server</string>
+    <string name="from_db">From database</string>
+</resources>

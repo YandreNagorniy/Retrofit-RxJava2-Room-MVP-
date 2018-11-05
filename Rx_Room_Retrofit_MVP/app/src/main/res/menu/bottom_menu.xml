@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/from_server"
+        android:id="@+id/action_fromServer"
+        android:icon="@drawable/ic_data_from_server">
+
+    </item>
+    <item android:title="@string/from_db"
+        android:id="@+id/action_fromDb"
+        android:icon="@drawable/ic_data_from_db">
+
+    </item>
+
+</menu>
